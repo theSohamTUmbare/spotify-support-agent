@@ -18,6 +18,21 @@ or account security. Otherwise it escalates with a specific reason. Everything i
 
 ---
 
+## See it in action
+
+**A playback question — every trust gate passes, so the agent auto-replies** with a grounded,
+on-brand answer:
+
+![Auto-reply: a grounded answer to a playback question, all six autonomy gates green](docs/screenshots/01_auto_reply.png)
+
+**A refund request — the agent escalates to a human** and shows exactly why: it's a
+money topic, the draft wasn't well grounded, it over-promised ("we'll investigate the double
+charge"), and the message tripped the money safety-net gate:
+
+![Escalate: a refund request routed to a human with the failing gates and verifier flags shown](docs/screenshots/02_escalate.png)
+
+---
+
 ## Reproduce the headline results in < 15 minutes
 
 ```bash

@@ -51,6 +51,12 @@ evidence and flags fabrication or over-promising. Finally six **autonomy gates**
 auto vs. escalate — including a classifier-independent safety net over the raw message (§4b) —
 with all thresholds in `config.py` and every gate value logged.
 
+The demo makes the whole decision visible. A playback question passes every gate and is
+auto-replied; a refund request is escalated with the failing gates and verifier flags shown:
+
+![Auto-reply on a grounded playback question](../docs/screenshots/01_auto_reply.png)
+![Escalation on a refund request, with failing gates and verifier flags](../docs/screenshots/02_escalate.png)
+
 ## 3. Golden evaluation set (200 test / 256 train)
 
 - **Sampling:** stratified. Real traffic is dominated by a few intents, so I bucketed the
