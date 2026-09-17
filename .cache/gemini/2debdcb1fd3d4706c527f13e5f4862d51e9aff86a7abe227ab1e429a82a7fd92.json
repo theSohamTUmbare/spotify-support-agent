@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user wants to transition from a student plan to standard individual premium and update payment details, which requires account-specific plan management and billing updates.\"\n}"}

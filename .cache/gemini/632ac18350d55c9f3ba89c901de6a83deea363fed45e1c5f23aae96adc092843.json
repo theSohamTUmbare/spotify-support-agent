@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is suggesting a new feature (previewing tracks by pressing down on them), which maps directly to feature_feedback and can be auto-handled with standard documentation or deflection.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is asking why a specific album (Lemonade by Beyonc\u00e9) is missing from Spotify, which fits content_availability. It does not require billing/account security actions, so it can be handled automatically.\"\n}"}

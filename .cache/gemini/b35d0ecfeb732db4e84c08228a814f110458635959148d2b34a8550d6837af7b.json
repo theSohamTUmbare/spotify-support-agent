@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is complaining about downloaded music disappearing repeatedly, which falls under playlist_library. This can be auto-handled with standard troubleshooting steps for download issues.\"\n}"}

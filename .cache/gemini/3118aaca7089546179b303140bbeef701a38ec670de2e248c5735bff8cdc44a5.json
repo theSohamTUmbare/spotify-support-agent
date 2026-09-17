@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing a technical issue with the Spotify app on a specific device (PS4) while it works fine on their phone. This falls under app_technical and can be troubleshot by an automated bot.\"\n}"}

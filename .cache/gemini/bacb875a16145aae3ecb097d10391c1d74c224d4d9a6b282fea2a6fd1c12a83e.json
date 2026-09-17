@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is complaining about saved music being repeatedly deleted and mentions a previous unresolved support ticket, requiring human intervention and account-specific troubleshooting.\"\n}"}

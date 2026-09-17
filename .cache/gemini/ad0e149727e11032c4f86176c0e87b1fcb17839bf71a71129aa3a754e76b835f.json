@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is trying to recover login details (username forgotten), which requires secure account identification and personal data handling that the bot cannot safely resolve autonomously.\"\n}"}

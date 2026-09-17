@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is asking for a partial refund due to a pricing mix-up between standard premium and the student plan, which requires human support and billing access.\"\n}"}

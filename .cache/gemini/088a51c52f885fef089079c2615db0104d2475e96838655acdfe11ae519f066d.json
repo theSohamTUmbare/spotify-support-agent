@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is locked out of their account and the login button is unresponsive, which involves account access and requires potential security or backend troubleshooting.\"\n}"}

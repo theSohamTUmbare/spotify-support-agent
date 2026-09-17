@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"The customer is complaining about an issue immediately after making a purchase and mentions 'no thanks', implying a cancellation or refund request related to a payment.\"\n}"}

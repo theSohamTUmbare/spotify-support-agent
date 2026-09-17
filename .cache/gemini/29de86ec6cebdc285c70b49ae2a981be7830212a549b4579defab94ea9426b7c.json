@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is experiencing a failed payment issue, which falls under billing and payment and involves sensitive payment processing requiring escalation.\"\n}"}

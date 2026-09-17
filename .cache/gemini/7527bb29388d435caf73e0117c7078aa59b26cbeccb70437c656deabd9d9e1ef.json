@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer was charged unexpectedly while attempting to register for a Student Discount, involving a financial transaction/charge that requires human support or account-specific verification.\"\n}"}

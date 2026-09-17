@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about accepted payment methods and alternative billing options due to lacking a credit card, which falls under billing and payment support and requires human or specialized account assistance.\"\n}"}

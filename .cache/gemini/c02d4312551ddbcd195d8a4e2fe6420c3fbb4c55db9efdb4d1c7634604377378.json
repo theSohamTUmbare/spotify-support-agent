@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer was charged multiple times and failed to receive Premium, which involves monetary charges and requires human intervention.\"\n}"}

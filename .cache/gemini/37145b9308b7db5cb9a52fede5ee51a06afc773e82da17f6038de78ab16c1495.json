@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is suggesting a new feature (searching by language in browse), which falls under feature_feedback and can be handled automatically by linking to the idea voting page.\"\n}"}

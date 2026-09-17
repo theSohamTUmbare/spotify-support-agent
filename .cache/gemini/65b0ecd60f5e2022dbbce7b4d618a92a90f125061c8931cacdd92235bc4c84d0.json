@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is dealing with account linking issues (Facebook login) and requesting a manual transfer of premium subscription status and library data between accounts, which requires agent assistance and security verification.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is complaining about having to redownload all their music due to a poor connection. This falls under playlist_library (downloads disappearing/needing redownload) and can be handled automatically by bot troubleshooting steps.\"\n}"}

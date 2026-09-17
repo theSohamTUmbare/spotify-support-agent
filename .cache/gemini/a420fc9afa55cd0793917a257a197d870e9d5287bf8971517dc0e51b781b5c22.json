@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.85,\n  \"note\": \"The customer is describing unexpected playback behavior (playing random songs with strange titles), which maps to playback_issue and can be initially triaged by a bot.\"\n}"}

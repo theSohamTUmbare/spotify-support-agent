@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The user states that a specific artist's music is not playing for them across multiple devices. This touches on content or playback, and troubleshooting steps like reinstalling are standard bot-handled flows.\"\n}"}

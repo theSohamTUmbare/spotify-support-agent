@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking where to provide product/app feedback, which falls directly under feature_feedback and can be handled automatically by a bot.\"\n}"}

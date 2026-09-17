@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is asking about a potential new feature/app integration, which maps to feature_feedback and can be auto-handled by pointing them to the Community idea board.\"\n}"}

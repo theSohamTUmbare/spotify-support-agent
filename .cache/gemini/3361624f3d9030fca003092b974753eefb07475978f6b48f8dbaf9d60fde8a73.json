@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is asking about a specific song ('That's what I like' by Bruno Mars) that is no longer available, which falls squarely under content_availability.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing a billing or status sync glitch with their Premium Family subscription showing active but prompting for upgrade, which requires account-specific troubleshooting.\"\n}"}

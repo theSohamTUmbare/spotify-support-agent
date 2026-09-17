@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is dealing with account closure, registration, and an email address tied to a deleted Facebook-linked account which requires account-specific backend intervention.\"\n}"}

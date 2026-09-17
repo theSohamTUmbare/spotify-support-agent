@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"The user is experiencing a credential or account state mismatch between platforms, which requires investigation and backend account verification.\"\n}"}

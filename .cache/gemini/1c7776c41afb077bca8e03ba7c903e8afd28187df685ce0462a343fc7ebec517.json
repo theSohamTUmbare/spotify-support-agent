@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is experiencing a credit card update issue related to billing and payments. This requires looking into account details and payment methods, which mandates human intervention/escalation.\"\n}"}

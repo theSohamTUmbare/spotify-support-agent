@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"The user is experiencing an account conflict error ('credentials have been used') related to setting up a student subscription, requiring account-specific verification.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about missing saved music, which falls directly under playlist_library. The bot can handle the initial troubleshooting flow automatically.\"\n}"}

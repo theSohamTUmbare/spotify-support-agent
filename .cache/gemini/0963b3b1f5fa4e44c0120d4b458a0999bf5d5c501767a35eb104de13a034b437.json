@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.85,\n  \"note\": \"Although the customer's first message is vague, the support agent's reply reveals it was about missing content, which fits the content_availability intent and can be handled via standard automated messaging.\"\n}"}

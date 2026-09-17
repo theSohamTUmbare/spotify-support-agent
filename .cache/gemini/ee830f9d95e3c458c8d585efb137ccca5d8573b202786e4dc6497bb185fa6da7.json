@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing unexpected playback behavior (repeated tracks and ads). While support asked for account/device info, the initial message is a classic playback/audio loop issue that can be handled with standard troubleshooting automated steps.\"\n}"}

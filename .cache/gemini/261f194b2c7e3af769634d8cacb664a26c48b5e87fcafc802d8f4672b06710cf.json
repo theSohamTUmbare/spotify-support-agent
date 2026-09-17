@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The issue involves payment updates and billing via a mobile carrier, which relates to billing/payments and requires agent assistance.\"\n}"}

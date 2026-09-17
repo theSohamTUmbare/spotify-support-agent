@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The message complains about the quality of the algorithmic recommendations (Discover Weekly), which falls under feature_feedback/recommendations and can be handled automatically.\"\n}"}

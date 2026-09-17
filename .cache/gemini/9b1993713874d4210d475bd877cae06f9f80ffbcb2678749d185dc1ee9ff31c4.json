@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is reporting a bug with the Android app ignoring a cellular download setting, which falls under app technical issues and can be handled by initial bot troubleshooting.\"\n}"}

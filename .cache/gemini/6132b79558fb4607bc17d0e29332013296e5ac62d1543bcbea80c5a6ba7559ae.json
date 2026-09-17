@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer cannot remember their username or email due to a stolen phone and needs account identification for a cancellation, requiring human agent verification.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is complaining about recommendation quality (which falls under feature_feedback/recommendations), expressing frustration with a specific feature aspect rather than experiencing a technical failure or billing issue.\"\n}"}

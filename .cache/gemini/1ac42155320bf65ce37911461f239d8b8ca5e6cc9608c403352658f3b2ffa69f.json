@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"other_chitchat\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.4,\n  \"note\": \"The first message is extremely vague and ambiguous, and since the customer is asking to be contacted, it requires human support routing.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking for help with a Family plan invitation error, which falls under subscription_plan and can be handled via automated troubleshooting steps or standard bot flows.\"\n}"}

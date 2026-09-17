@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The user's account has been compromised, email changed, and they are locked out, which requires sensitive account security handling by a human support agent.\"\n}"}

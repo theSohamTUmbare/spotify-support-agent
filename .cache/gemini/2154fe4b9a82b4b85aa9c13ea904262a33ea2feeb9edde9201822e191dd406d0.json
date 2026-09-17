@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is reporting that payments are still being taken while their subscription status reverted to free, which involves financial charges and requires account-specific investigation.\"\n}"}

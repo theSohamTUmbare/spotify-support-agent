@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is asking when music/Spotify will be available in India, which falls under content_availability (availability in a region).\"\n}"}

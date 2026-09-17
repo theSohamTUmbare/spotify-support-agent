@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer paid for premium but it hasn't activated, which involves a financial transaction and payment verification requiring human support.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about regional availability/launch plans for a specific country (Romania), which fits best under content availability/service expansion, and the bot successfully handled it with a standard canned response.\"\n}"}

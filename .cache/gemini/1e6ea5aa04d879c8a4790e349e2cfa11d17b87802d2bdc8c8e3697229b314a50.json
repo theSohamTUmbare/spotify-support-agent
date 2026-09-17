@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is complaining about the app crashing, which falls under app_technical, and it was successfully resolved with standard troubleshooting steps.\"\n}"}

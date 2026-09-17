@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The user is asking about purchasing a gift card for another country, which falls under general billing/payment rules and can be handled automatically by an informational bot response.\"\n}"}

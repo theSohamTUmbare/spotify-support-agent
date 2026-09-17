@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is dealing with a conflict between a cancelled individual subscription and a partner promotion (Vodafone) claiming an active premium status, which requires manual backend account verification and partner link management.\"\n}"}

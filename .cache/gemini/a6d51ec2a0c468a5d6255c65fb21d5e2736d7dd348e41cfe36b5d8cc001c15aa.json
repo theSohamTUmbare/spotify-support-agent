@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is stuck on the student verification step while trying to update payment info/manage their subscription plan, requiring manual account-level intervention.\"\n}"}

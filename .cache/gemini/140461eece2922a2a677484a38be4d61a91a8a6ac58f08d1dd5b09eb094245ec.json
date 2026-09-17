@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about the availability of Spotify in India, which falls under content/service availability and is successfully handled by the bot's standard macro response.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is complaining about a removed UI feature (Touch Preview) and requesting it back, which falls squarely under feature feedback and can be auto-handled by a canned response linking to community/feedback info.\"\n}"}

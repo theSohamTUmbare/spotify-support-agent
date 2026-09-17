@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is suggesting new functionality to filter playlists by genre and blend genres, which clearly falls under feature feedback and can be handled automatically by a bot acknowledging the request.\"\n}"}

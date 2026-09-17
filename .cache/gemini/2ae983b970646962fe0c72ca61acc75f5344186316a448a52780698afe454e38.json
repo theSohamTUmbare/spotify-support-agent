@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is reporting an issue logging in using the 'Login with Facebook' button, which falls under account access and requires account-specific troubleshooting.\"\n}"}

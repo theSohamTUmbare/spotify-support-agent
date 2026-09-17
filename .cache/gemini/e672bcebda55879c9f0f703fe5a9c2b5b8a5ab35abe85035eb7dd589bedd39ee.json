@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.85,\n  \"note\": \"Changing a username on Spotify generally requires account verification and backend changes that an AI bot cannot perform, falling under account management/access.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"other_chitchat\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.5,\n  \"note\": \"The customer's message is extremely vague and lacks enough context to classify it into a specific intent.\"\n}"}

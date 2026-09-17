@@ -1,0 +1,64 @@
+{
+  "n_test": 200,
+  "intent": {
+    "majority": {
+      "accuracy": 0.1569,
+      "macro_f1": 0.0301
+    },
+    "tfidf": {
+      "accuracy": 0.5948,
+      "macro_f1": 0.5457
+    },
+    "llm_agent": {
+      "accuracy": 0.719,
+      "macro_f1": 0.7095
+    }
+  },
+  "models": {
+    "agent": "groq:openai/gpt-oss-120b",
+    "judge": "groq:openai/gpt-oss-20b"
+  },
+  "n_evaluated": 153,
+  "decision": {
+    "coverage_auto": 0.3268,
+    "escalation_recall": 0.8772,
+    "escalation_precision": 0.4854,
+    "dangerous_auto": 7,
+    "decision_accuracy": 0.6078,
+    "confusion": {
+      "tp_escalate": 50,
+      "fn_dangerous_auto": 7,
+      "fp_overcautious": 53,
+      "tn_auto": 43
+    }
+  },
+  "reply_quality": {
+    "all": {
+      "n": 153,
+      "overall": 4.722,
+      "groundedness": 4.575,
+      "helpfulness": 4.438,
+      "tone": 4.902,
+      "safety": 4.974,
+      "pct_acceptable": 0.922
+    },
+    "auto_handled_sent_to_customer": {
+      "n": 50,
+      "overall": 4.895,
+      "groundedness": 4.9,
+      "helpfulness": 4.72,
+      "tone": 4.96,
+      "safety": 5.0,
+      "pct_acceptable": 0.96
+    },
+    "escalated_draft_only": {
+      "n": 103,
+      "overall": 4.638,
+      "groundedness": 4.417,
+      "helpfulness": 4.301,
+      "tone": 4.874,
+      "safety": 4.961,
+      "pct_acceptable": 0.903
+    }
+  }
+}

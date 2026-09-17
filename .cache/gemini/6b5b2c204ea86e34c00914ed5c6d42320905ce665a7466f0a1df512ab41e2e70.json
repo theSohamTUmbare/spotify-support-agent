@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about music stopping when leaving the app, which is a playback behavior issue, and it can be handled via standard troubleshooting steps automatable by a bot.\"\n}"}

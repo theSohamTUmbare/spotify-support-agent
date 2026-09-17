@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is attempting to pay with a new credit card but the system is rejecting it due to student status verification issues and they want to be charged full price, which involves payment processing and subscription status.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is asking about a missing album release in their region, which falls directly under content_availability and can be auto-handled using standard routing information.\"\n}"}

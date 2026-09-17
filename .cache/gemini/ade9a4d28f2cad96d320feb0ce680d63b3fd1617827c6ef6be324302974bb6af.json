@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"other_chitchat\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.8,\n  \"note\": \"The customer's first message is vague profanity/ambiguous, which falls under other_chitchat. The agent reply addresses a download limit/feature feedback context, but based strictly on the first message, it's ambiguous chitchat.\"\n}"}

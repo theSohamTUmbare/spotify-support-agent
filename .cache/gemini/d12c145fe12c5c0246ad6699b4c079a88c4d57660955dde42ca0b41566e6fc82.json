@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is trying to update payment details, which falls under billing and payment. Because it involves payment processing issues and potentially account-specific troubleshooting where the app is failing, it requires human escalation.\"\n}"}

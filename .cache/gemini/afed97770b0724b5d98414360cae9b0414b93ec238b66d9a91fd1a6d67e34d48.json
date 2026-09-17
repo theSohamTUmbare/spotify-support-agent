@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is reporting API error codes (503), which falls under app_technical/developer technical issues and can be handled via standard troubleshooting or automated bot responses requesting device details.\"\n}"}

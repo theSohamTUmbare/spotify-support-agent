@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"other_chitchat\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.5,\n  \"note\": \"The first message 'Grizzly on Spotify' is ambiguous and lacks clear context or actionable intent, defaulting to other_chitchat.\"\n}"}

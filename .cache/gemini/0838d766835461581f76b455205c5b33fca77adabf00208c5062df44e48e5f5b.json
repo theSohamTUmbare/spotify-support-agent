@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer's message describes a playback failure (music won't play after an ad) and asks if the service is down, which can be handled automatically or triaged with standard troubleshooting.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.85,\n  \"note\": \"The user is trying to subscribe to Spotify Premium but the option is not appearing for them, which relates to managing or purchasing a subscription plan.\"\n}"}

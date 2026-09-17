@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is experiencing card processing failures while trying to subscribe to Premium, which falls under payment issues and requires manual support intervention.\"\n}"}

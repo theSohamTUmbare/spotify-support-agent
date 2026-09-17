@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is asking about an issue with their downloaded library showing negative numbers. Since the support agent had to ask for account-specific details (username/email) to investigate backstage, it requires escalation beyond standard auto-handling.\"\n}"}

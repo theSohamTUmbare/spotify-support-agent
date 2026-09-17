@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is complaining about an ongoing unwanted charge of \u00a39.99 a month from an old account, which falls under billing_payment and requires human escalation due to sensitive financial matters.\"\n}"}

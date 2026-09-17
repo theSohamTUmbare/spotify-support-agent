@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is suggesting a new feature (direct messaging music to friends), which falls directly under feature_feedback and can be auto-handled by a standard acknowledgement bot.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking why specific holiday content is missing from the platform, which falls under content availability and can be handled automatically by a bot providing standard content info links.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"Issues regarding connecting or authenticating third-party accounts like Facebook fall under account_access and typically require sensitive account verification.\"\n}"}

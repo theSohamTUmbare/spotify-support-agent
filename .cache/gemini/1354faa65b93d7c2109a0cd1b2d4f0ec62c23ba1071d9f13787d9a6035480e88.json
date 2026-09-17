@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is complaining about a feature (watching ads for ad-free time not working correctly), which falls under feature_feedback/complaints about how a feature works.\"\n}"}

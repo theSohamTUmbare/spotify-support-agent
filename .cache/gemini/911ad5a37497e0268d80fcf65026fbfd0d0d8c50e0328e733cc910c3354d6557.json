@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is reporting an unauthorized charge while not having an account, which involves sensitive billing and account lookup requiring human intervention.\"\n}"}

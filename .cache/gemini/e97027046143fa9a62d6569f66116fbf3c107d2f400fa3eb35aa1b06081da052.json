@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing a specific error when trying to add a member to their family plan, which requires account-specific troubleshooting that a bot cannot automatically resolve.\"\n}"}

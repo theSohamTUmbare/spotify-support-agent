@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.85,\n  \"note\": \"The customer is complaining about a login failure and a 504 error, falling under account access issues which often require human or system-level verification, though it may also be a broader service outage.\"\n}"}

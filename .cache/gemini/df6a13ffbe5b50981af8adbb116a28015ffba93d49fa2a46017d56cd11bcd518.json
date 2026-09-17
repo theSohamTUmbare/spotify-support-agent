@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is trying to stop/cancel a subscription (billing/payment related) and experiencing payment/account detail errors, which requires sensitive account verification and support intervention.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is complaining about a missing feature (an alarm clock), which falls under feature_feedback, and it can be handled automatically by linking to the feature request board.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The user is suggesting a new feature (adding a playlist to a queue), which fits the feature_feedback taxonomy and can be automatically handled with a standard response/link to the idea voting page.\"\n}"}

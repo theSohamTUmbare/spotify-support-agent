@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is suggesting a change to the lock screen UI to prevent accidental clicks, which fits the feature_feedback intent and can be auto-handled.\"\n}"}

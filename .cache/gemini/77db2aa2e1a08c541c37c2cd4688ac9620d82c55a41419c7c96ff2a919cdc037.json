@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is requesting metadata correction for an artist/song on Spotify, which typically requires human intervention or escalation to metadata teams/distributors.\"\n}"}

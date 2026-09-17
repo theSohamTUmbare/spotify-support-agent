@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is reporting that their entire saved music library has disappeared. This requires investigating specific account data and playlists/library restoration tools, necessitating escalation.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is unable to reset their password due to a technical error on the page. Since account access and password resets are sensitive issues requiring backend assistance, it should be escalated.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user's Facebook account is disabled and they need help accessing or managing their Spotify account linked to it, which involves account security and requires manual agent intervention.\"\n}"}

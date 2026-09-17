@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The issue is about sending and accepting a Family plan invite, which falls under subscription_plan. It can typically be handled by bot troubleshooting steps regarding invite links and address matching.\"\n}"}

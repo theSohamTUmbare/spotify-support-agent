@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is reporting an incorrect artist/album tagging or metadata issue, which falls under content and metadata feedback handled via standard bot reporting workflows.\"\n}"}

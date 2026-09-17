@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.85,\n  \"note\": \"The customer is complaining about a sudden loss of Premium status despite having it part of their plan, which requires looking into their specific account status and billing/subscription backend.\"\n}"}

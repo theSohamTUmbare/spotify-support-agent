@@ -1,0 +1,1 @@
+{"text": "{\n  \"groundedness\": 0.33,\n  \"supported\": false,\n  \"unsupported_claims\": [\n    \"We can check the university eligibility for you.\",\n    \"Spotify username\",\n    \"check the university eligibility\"\n  ],\n  \"makes_commitment\": true\n}"}

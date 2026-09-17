@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"Re-activating a cancelled account requires account-specific backend assistance, making it sensitive and necessitating human escalation.\"\n}"}

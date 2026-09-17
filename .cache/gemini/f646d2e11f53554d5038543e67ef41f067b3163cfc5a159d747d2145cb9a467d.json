@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about the availability of a specific album, which falls under content_availability and can be easily handled by providing a link or checking the catalog automatically.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing an issue where adding a song to a playlist triggers an unexpected prompt to create a new one, which falls under playlist management.\"\n}"}

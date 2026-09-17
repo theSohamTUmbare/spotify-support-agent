@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The message touches on multiple topics, but account recovery and login issues are classified as sensitive (account_access) which requires human escalation for security verification.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The customer is complaining about how a playlist sorting feature works (alphabetical sorting). This falls under feature_feedback and can be auto-handled with standard troubleshooting or feedback routing.\"\n}"}

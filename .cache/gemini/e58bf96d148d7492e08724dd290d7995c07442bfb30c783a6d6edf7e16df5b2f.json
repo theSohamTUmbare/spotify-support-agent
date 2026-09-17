@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is trying to recover access to an old account (\\\"don't have the email address for\\\") and needs account-specific assistance that requires human verification.\"\n}"}

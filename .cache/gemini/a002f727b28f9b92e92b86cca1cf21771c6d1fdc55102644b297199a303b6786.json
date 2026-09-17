@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is providing feedback about app optimization/UI for a specific device model, which maps cleanly to feature_feedback and was handled successfully by a standard support response.\"\n}"}

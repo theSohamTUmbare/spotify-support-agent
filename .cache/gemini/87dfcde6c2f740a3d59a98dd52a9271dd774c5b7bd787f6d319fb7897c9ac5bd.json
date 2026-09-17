@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing password reset issues with a security error message ('CSRF token is invalid') and mentions a suspicious notice received days prior, which falls under sensitive account access and security concerns.\"\n}"}

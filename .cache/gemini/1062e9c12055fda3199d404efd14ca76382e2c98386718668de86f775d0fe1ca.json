@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is experiencing a device connection/integration issue with Sonos following an update, which falls under app_technical. It can be automatically handled initially by troubleshooting OS and device connection steps.\"\n}"}

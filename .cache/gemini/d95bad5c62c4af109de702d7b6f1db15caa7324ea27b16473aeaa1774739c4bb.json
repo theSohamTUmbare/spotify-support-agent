@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer's first message describes music skipping, which directly falls under playback issues, and the bot can handle troubleshooting steps automatically.\"\n}"}

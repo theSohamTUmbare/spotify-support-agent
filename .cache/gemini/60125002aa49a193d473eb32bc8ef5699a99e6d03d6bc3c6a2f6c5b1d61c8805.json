@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is reporting a specific track audio issue (doesn't sound right), which falls under playback/audio quality issues and can be handled via standard troubleshooting steps by the bot.\"\n}"}

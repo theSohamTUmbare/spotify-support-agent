@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is asking about changing account billing/plan types involving a third-party partner (Sprint) to a family plan, which requires account-specific verification and assistance handled by a human agent.\"\n}"}

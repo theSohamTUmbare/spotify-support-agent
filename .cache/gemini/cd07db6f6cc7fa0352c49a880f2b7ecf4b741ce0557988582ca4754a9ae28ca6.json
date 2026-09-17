@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is inquiring about a refund for multiple charges, which falls under billing and payment and requires human or secure system intervention.\"\n}"}

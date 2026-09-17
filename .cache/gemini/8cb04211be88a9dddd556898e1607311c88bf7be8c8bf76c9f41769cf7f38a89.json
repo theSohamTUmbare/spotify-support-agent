@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking to verify the status of their student discount renewal, which requires checking specific account details and verification status that agents must handle backstage.\"\n}"}

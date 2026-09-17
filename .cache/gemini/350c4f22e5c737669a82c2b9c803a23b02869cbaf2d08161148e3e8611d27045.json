@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The customer is asking about an issue sharing track links, which falls under app/feature technical behavior, and the bot can auto-handle troubleshooting or providing status on known issues.\"\n}"}

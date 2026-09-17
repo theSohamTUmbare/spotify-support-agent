@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is experiencing a login barrier related to account location verification ('enjoy abroad music'), which requires account-specific troubleshooting and investigation by support.\"\n}"}

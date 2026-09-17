@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is expressing a desire for a feature/product change (listening graphics emails), which falls directly under feature_feedback and can be auto-handled with standard deflection info.\"\n}"}

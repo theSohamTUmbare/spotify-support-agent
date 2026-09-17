@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is unable to create a new account across both the iOS app and the web, which requires account-specific troubleshooting and backend support.\"\n}"}

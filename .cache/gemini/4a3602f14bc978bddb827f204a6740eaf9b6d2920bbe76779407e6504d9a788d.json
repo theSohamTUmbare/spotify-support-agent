@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The issue involves a promotional subscription charge/deal and requires account-specific verification regarding previous offers, which falls under billing and requires escalation.\"\n}"}

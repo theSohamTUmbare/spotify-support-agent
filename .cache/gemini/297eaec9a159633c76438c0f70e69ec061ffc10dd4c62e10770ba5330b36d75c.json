@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is complaining about a payment/purchase issue (charged for a gift but not delivered or received receipt) which involves financial transactions and requires human agent intervention to check the account backend.\"\n}"}

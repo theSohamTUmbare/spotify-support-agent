@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.85,\n  \"note\": \"The user is reporting an issue with the Friend Activity feature not displaying properly. While basic troubleshooting can be attempted by a bot, the thread required collecting account details and escalating to backend support.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is questioning a charge/trial duration discrepancy involving a subscription sign-up, which falls under billing and requires support agent verification.\"\n}"}

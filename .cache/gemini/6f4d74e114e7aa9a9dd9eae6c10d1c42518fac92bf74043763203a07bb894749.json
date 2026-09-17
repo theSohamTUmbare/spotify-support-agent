@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer cannot log into their premium account due to account merging/Facebook login issues and a 'function unavailable' error during password reset. This is a sensitive account access and security issue requiring human support intervention.\"\n}"}

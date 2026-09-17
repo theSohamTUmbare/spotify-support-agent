@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is asking about an unexpected charge and a student discount pricing discrepancy, which involves sensitive billing and payment matters requiring human intervention.\"\n}"}

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Spotify Support Agent — grounded &amp; gated</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c2430; --line:#2a3441;
+    --text:#e6edf3; --muted:#9aa7b4; --green:#1db954; --amber:#f0a020;
+    --red:#f0506e; --blue:#4aa3ff; --radius:14px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+       background:var(--bg);color:var(--text);line-height:1.5}
+  .wrap{max-width:860px;margin:0 auto;padding:32px 20px 80px}
+  h1{font-size:22px;margin:0 0 4px;display:flex;align-items:center;gap:10px}
+  .dot{width:12px;height:12px;border-radius:50%;background:var(--green)}
+  .sub{color:var(--muted);font-size:14px;margin-bottom:24px}
+  textarea{width:100%;min-height:88px;background:var(--panel);color:var(--text);
+    border:1px solid var(--line);border-radius:var(--radius);padding:14px;font-size:15px;resize:vertical}
+  .row{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
+  button{background:var(--green);color:#04120a;border:0;border-radius:10px;padding:11px 18px;
+    font-weight:600;font-size:14px;cursor:pointer}
+  button.ghost{background:var(--panel2);color:var(--muted);font-weight:500}
+  button:disabled{opacity:.6;cursor:progress}
+  .examples{margin:14px 0 8px;color:var(--muted);font-size:12.5px}
+  .chip{display:inline-block;background:var(--panel2);border:1px solid var(--line);
+    color:var(--text);border-radius:20px;padding:6px 12px;margin:4px 6px 0 0;font-size:12.5px;cursor:pointer}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:18px;margin-top:16px}
+  .card h3{margin:0 0 10px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  .badge{display:inline-block;padding:4px 12px;border-radius:20px;font-weight:700;font-size:13px}
+  .badge.auto{background:rgba(29,185,84,.15);color:var(--green);border:1px solid var(--green)}
+  .badge.escalate{background:rgba(240,160,32,.13);color:var(--amber);border:1px solid var(--amber)}
+  .meter{height:8px;background:var(--panel2);border-radius:6px;overflow:hidden;margin-top:6px}
+  .meter > span{display:block;height:100%;background:var(--blue)}
+  .kv{display:flex;justify-content:space-between;font-size:13.5px;margin:3px 0}
+  .muted{color:var(--muted)}
+  .reply{background:var(--panel2);border-left:3px solid var(--green);padding:12px 14px;border-radius:8px;
+    font-size:15px;white-space:pre-wrap}
+  .gate{display:flex;align-items:center;gap:8px;font-size:13px;margin:4px 0}
+  .tick{width:18px;height:18px;border-radius:50%;display:grid;place-items:center;font-size:11px;font-weight:700}
+  .tick.ok{background:rgba(29,185,84,.2);color:var(--green)}
+  .tick.no{background:rgba(240,80,110,.2);color:var(--red)}
+  .ev{border-top:1px solid var(--line);padding:10px 0;font-size:13px}
+  .ev:first-child{border-top:0}
+  .ev .q{color:var(--muted)} .ev .a{margin-top:2px}
+  details summary{cursor:pointer;color:var(--muted);font-size:13px}
+  .reason{background:rgba(240,160,32,.08);border:1px solid rgba(240,160,32,.3);border-radius:8px;
+    padding:10px 12px;font-size:13.5px;margin-top:8px}
+  .flag{color:var(--red);font-size:12.5px}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:640px){.grid2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="dot"></span> Spotify Support Agent</h1>
+  <div class="sub">Grounded in real past resolutions · self-verified · auto-handles only when every trust gate passes.</div>
+
+  <textarea id="msg" placeholder="Paste a customer message…"></textarea>
+  <div class="examples">Try one:</div>
+  <div id="chips"></div>
+  <div class="row">
+    <button id="go">Analyze &amp; draft</button>
+    <button class="ghost" id="clear">Clear</button>
+  </div>
+
+  <div id="out"></div>
+</div>
+
+<script>
+const EXAMPLES = [
+  "why can i only shuffle play, i just want to hear one specific song",
+  "i was charged twice for premium this month, can i get a refund?",
+  "my account got hacked and all my playlists were deleted overnight",
+  "please add the ability to change playlist cover images on ios",
+  "the desktop app on my mac keeps crashing after the last update",
+  "where is beyonce's lemonade? why isn't it on spotify anymore",
+];
+const chips = document.getElementById('chips');
+EXAMPLES.forEach(e=>{const c=document.createElement('span');c.className='chip';c.textContent=e;
+  c.onclick=()=>{document.getElementById('msg').value=e;};chips.appendChild(c);});
+
+const pct = v => Math.round((v||0)*100);
+function meter(v,color){return `<div class="meter"><span style="width:${pct(v)}%;background:${color}"></span></div>`;}
+
+async function run(){
+  const msg = document.getElementById('msg').value.trim();
+  if(!msg) return;
+  const btn=document.getElementById('go'); btn.disabled=true; btn.textContent='Thinking…';
+  document.getElementById('out').innerHTML='';
+  try{
+    const r = await fetch('/api/handle',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({message:msg})});
+    const d = await r.json();
+    if(d.error){
+      document.getElementById('out').innerHTML=`<div class="card">
+        <h3>Decision</h3><span class="badge escalate">ESCALATE TO HUMAN</span>
+        <div class="reason">${d.decision.reason}</div></div>`;
+      return;
+    }
+    render(d);
+  }catch(e){ document.getElementById('out').innerHTML=`<div class="card">Error: ${e}</div>`; }
+  btn.disabled=false; btn.textContent='Analyze & draft';
+}
+
+function render(d){
+  const auto = d.decision.action==='auto_reply';
+  const gatesOrder=['intent_confidence','retrieval_similarity','groundedness','no_unsupported_commitment','not_sensitive_intent','no_sensitive_signals'];
+  const gateLabel={intent_confidence:'Confident intent',retrieval_similarity:'Close precedent found',
+    groundedness:'Reply grounded in evidence',no_unsupported_commitment:'No over-promise',not_sensitive_intent:'Non-sensitive intent',
+    no_sensitive_signals:'No money/security signals in message'};
+  const gatesHtml = gatesOrder.map(g=>{const ok=d.decision.gates[g] && d.decision.gates[g].pass;
+    return `<div class="gate"><span class="tick ${ok?'ok':'no'}">${ok?'✓':'✕'}</span>${gateLabel[g]}</div>`;}).join('');
+  const ev = (d.evidence||[]).map(e=>`<div class="ev"><div class="q">“${e.customer_message}”</div>
+    <div class="a">↳ ${e.support_response} <span class="muted">(sim ${e.similarity.toFixed(2)})</span></div></div>`).join('');
+  const flags = (d.verification.unsupported_claims||[]).map(c=>`<div class="flag">⚠ unsupported: “${c}”</div>`).join('')
+    + (d.verification.makes_commitment?`<div class="flag">⚠ appears to promise an account action</div>`:'');
+
+  document.getElementById('out').innerHTML = `
+  <div class="card">
+    <h3>Decision</h3>
+    <span class="badge ${auto?'auto':'escalate'}">${auto?'AUTO-REPLY':'ESCALATE TO HUMAN'}</span>
+    <div class="reason">${d.decision.reason}</div>
+    <div style="margin-top:12px">${gatesHtml}</div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <h3>Intent</h3>
+      <div style="font-size:17px;font-weight:600">${d.intent.intent}</div>
+      <div class="kv"><span class="muted">confidence</span><span>${pct(d.intent.confidence)}%</span></div>
+      ${meter(d.intent.confidence,'#4aa3ff')}
+      <div class="muted" style="font-size:12.5px;margin-top:8px">${d.intent.rationale||''}</div>
+    </div>
+    <div class="card">
+      <h3>Groundedness check</h3>
+      <div class="kv"><span class="muted">verifier score</span><span>${pct(d.verification.groundedness)}%</span></div>
+      ${meter(d.verification.groundedness, d.verification.groundedness>=0.66?'#1db954':'#f0506e')}
+      <div style="margin-top:8px">${flags||'<span class="muted" style="font-size:12.5px">no unsupported claims flagged</span>'}</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Drafted reply ${auto?'(would be sent)':'(held for human review)'}</h3>
+    <div class="reply">${escapeHtml(d.draft_reply)}</div>
+  </div>
+
+  <div class="card">
+    <details><summary>Grounding evidence — ${ (d.evidence||[]).length } past Spotify resolutions used</summary>
+      <div style="margin-top:10px">${ev||'<span class="muted">none</span>'}</div>
+    </details>
+  </div>`;
+}
+function escapeHtml(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+document.getElementById('go').onclick=run;
+document.getElementById('clear').onclick=()=>{document.getElementById('msg').value='';document.getElementById('out').innerHTML='';};
+document.getElementById('msg').addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key==='Enter')run();});
+</script>
+</body>
+</html>

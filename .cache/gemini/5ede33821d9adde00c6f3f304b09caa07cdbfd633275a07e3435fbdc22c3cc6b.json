@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is experiencing app crashes and playback stopping after every song on iOS, which falls directly under app_technical. The conversation was successfully handled via standard troubleshooting steps by the support bot.\"\n}"}

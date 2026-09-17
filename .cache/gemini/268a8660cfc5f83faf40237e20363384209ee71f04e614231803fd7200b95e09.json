@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user's app is freezing and won't open, which falls under app_technical. The issue was successfully resolved by the bot through standard troubleshooting steps without requiring escalation.\"\n}"}

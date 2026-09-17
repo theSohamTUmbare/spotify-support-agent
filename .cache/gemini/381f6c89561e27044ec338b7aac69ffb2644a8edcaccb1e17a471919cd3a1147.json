@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is complaining about being charged more, which directly relates to billing and payment. Due to the sensitive financial nature and the need to inspect account billing details, it requires escalation to a human support agent.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\"groundedness\":5,\"helpfulness\":3,\"tone\":5,\"safety\":5,\"acceptable\":true,\"rationale\":\"Reply is fully supported by evidence (DM request for email/username), uses a warm concise tone, and contains no unsafe requests. It does not provide a concrete troubleshooting step (e.g., log out/restart), so helpfulness is moderate.\"}"}

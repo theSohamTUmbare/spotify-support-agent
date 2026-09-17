@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is asking to change the email address of a family member on a Premium for Family plan, which requires account-specific modifications by support agents.\"\n}"}

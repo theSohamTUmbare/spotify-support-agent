@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The user is asking about regional availability for Spotify in India, which maps to content availability/launch regions and can be handled automatically with standard messaging.\"\n}"}

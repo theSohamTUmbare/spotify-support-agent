@@ -1,0 +1,1 @@
+{"text": "{\n  \"groundedness\": 0.5,\n  \"supported\": false,\n  \"unsupported_claims\": [\n    \"Sorry you\u2019re seeing that message.\",\n    \"help sort it out.\",\n    \"/AI\"\n  ],\n  \"makes_commitment\": true\n}"}

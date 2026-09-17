@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is reporting a glitch/bug with the iPhone lock screen controls, which falls under app technical issues. The bot can handle troubleshooting steps like asking for app versions and suggesting basic resets.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is dealing with a forgotten password and account login issues, which falls under account_access and requires sensitive verification or human intervention.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is unable to log into their account, which falls under account_access and requires secure handling/escalation to resolve access issues.\"\n}"}

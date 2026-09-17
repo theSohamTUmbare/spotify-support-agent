@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking for a new feature (a block button for artists), which falls under feature_feedback and can be automatically handled with community board links.\"\n}"}

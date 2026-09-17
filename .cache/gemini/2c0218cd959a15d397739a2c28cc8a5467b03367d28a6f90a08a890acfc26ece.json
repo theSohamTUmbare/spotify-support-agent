@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"The customer is complaining about losing credit/money ('used ALL my credit', 'ripped off') and the bot reply asks for the account email, indicating a financial/billing issue requiring human agent review.\"\n}"}

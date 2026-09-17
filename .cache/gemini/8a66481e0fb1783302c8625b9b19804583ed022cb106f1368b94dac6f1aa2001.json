@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is having issues with a deactivated Facebook email tied to their login/account credentials, requiring secure account verification and manual intervention.\"\n}"}

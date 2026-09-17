@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"Changing the country on an account requires backend database updates and account verification that the bot cannot safely handle, especially given it's tied to account region restrictions.\"\n}"}

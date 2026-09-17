@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is complaining about being charged both student and full rates simultaneously. This involves billing disputes and refunds, which are sensitive and require human support.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The issue involves adding a credit card for a payment method and encountering an error message, which falls under billing and payment.\"\n}"}

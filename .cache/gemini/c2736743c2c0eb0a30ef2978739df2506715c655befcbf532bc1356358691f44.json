@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"The user paid for Premium but the account reverted to Free, indicating a payment/subscription sync issue that requires account-specific investigation.\"\n}"}

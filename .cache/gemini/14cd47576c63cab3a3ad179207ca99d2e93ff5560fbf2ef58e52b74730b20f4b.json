@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is requesting a new feature (playing a playlist in reverse), which clearly falls under feature_feedback and can be auto-handled by suggesting the community link.\"\n}"}

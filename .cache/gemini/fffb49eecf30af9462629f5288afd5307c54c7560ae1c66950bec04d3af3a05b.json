@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playback_issue\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The customer is complaining about persistent playback interruption ('happens >> all the time <<') on fibre wifi, which falls under playback issues and can be handled by standard troubleshooting flows.\"\n}"}

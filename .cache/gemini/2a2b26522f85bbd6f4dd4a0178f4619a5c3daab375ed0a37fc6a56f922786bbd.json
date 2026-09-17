@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is complaining about an unexpected charge after attempting to sign up for a student account, which falls under billing and requires agent intervention due to being a sensitive payment/refund matter.\"\n}"}

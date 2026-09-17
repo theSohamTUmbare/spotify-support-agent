@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about the status of a payment, which falls under billing_payment and requires sensitive account-specific action and verification.\"\n}"}

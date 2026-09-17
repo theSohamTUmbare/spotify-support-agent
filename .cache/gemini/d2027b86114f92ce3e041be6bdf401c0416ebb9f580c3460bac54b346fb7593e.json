@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about whether a specific discount (Quicksilver) applies to an annual subscription plan, which is a general policy question that the bot can handle directly with information.\"\n}"}

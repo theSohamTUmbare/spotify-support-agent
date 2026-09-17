@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer's first message complains about downloaded files being deleted daily, which falls under playlist_library. The bot can automatically handle this by providing standard troubleshooting steps.\"\n}"}

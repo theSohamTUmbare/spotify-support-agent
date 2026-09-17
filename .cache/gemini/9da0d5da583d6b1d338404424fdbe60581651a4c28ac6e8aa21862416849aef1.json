@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is trying to update their payment method and region/country settings, which involves billing details and account region changes requiring human agent intervention.\"\n}"}

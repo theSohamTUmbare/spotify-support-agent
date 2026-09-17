@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is reporting a UI/display issue where the GPS bar blocks the search function on a mobile device, which falls under app technical/usability issues suitable for initial bot troubleshooting.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The user is asking for help to log in, which falls under account_access. Since account access is tagged as [SENSITIVE] and requires account verification or security intervention, it must be escalated to a human.\"\n}"}

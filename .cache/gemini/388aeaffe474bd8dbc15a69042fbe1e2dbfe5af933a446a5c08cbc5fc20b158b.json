@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.9,\n  \"note\": \"The user is reporting incorrect content mapping on their artist page, which requires manual intervention or routing to the dedicated Spotify for Artists support team.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"other_chitchat\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.8,\n  \"note\": \"The first message is a vague greeting looking for help, which can be handled by an initial bot prompt redirecting to DM.\"\n}"}

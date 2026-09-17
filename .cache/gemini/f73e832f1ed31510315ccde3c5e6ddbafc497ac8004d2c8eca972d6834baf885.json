@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.99,\n  \"note\": \"The customer is reporting an app crash on a specific device (Google Pixel) after updates, which falls directly under app_technical and can be handled by standard troubleshooting or bot responses.\"\n}"}

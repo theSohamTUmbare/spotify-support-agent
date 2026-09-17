@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer linked the wrong account to a Premium Family plan and needs manual assistance to move the subscription to a different account.\"\n}"}

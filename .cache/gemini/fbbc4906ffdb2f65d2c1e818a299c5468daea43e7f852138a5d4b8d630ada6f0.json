@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.9,\n  \"note\": \"The customer is complaining about a feature (Waze integration) and asking how to disable it, which is an informational query that can be handled automatically.\"\n}"}

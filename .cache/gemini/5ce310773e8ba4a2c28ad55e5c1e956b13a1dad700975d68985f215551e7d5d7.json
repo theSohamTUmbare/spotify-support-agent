@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is unable to log into their account using multiple methods, and account access issues are classified as sensitive and require human support / manual verification.\"\n}"}

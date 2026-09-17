@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is dealing with account access issues tied directly to financial charges, which involves both account security and billing components requiring human verification.\"\n}"}

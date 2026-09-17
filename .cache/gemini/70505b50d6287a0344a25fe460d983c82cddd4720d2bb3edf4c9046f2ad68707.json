@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 1.0,\n  \"note\": \"The message involves a compromised/hacked account, which is sensitive and requires human support intervention, especially since the user mentions it has been unresolved for over a week.\"\n}"}

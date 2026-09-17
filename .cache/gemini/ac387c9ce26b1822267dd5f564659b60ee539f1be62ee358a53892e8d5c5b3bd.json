@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is providing feedback/complaints regarding ad content and mentioning a login oversight, which fits into feature_feedback and can be auto-handled.\"\n}"}

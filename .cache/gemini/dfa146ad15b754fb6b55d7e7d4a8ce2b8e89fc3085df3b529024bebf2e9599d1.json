@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is having trouble adding a family member to their plan via an invite email, which falls under subscription_plan management and can be handled automatically or with standard support workflows.\"\n}"}

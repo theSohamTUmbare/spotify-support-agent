@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"other_chitchat\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.5,\n  \"note\": \"The customer's first message is extremely ambiguous ('Please do asap\ud83d\ude4f'), and the actual context shows it was likely handled by bot as general feedback. Treated as other_chitchat due to lack of a clear specific intent.\"\n}"}

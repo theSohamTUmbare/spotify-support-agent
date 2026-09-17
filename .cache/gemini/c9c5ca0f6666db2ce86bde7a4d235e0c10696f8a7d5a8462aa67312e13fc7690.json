@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"content_availability\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is asking about missing music (Joan Jett & The Blackhearts), which clearly falls under content_availability and can be auto-handled with standard support links.\"\n}"}

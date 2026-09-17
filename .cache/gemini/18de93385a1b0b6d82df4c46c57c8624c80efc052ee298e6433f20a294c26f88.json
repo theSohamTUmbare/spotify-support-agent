@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user mentions weird behavior and states they reset their password 'just in case', indicating a potential security or compromised account issue which requires sensitive handling.\"\n}"}

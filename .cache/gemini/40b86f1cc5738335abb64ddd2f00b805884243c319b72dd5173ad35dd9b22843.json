@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"app_technical\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The issue is a device/Bluetooth connection problem following an iOS update, which falls under app_technical, and can be handled via troubleshooting steps by the bot.\"\n}"}

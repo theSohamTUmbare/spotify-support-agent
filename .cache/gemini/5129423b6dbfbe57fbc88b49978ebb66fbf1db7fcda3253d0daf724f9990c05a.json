@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"billing_payment\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is inquiring about a delayed payment processing via Oxxo, which involves financial transactions and requires human support or backend verification to resolve.\"\n}"}

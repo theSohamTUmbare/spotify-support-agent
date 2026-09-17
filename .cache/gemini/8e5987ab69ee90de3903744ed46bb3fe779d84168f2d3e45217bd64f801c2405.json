@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"account_access\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is questioning an unexpected link to their account, which implies potential unauthorized access or a security concern. This falls under account_access [SENSITIVE] and requires human escalation.\"\n}"}

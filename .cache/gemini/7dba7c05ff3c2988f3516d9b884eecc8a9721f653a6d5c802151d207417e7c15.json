@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"subscription_plan\",\n  \"gold_decision\": \"escalate\",\n  \"confidence\": 0.95,\n  \"note\": \"The user is asking about bundling services (Hulu) and country-specific account region changes affecting the subscription offer, which requires backend account modification and verification.\"\n}"}

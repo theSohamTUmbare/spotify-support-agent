@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 1.0,\n  \"note\": \"The customer is suggesting a new feature for the Android app, which fits the feature_feedback taxonomy and can be easily auto-handled by a bot acknowledging the request.\"\n}"}

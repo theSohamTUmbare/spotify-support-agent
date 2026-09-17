@@ -1,0 +1,10 @@
+# Core pipeline (light, no torch) — installs in well under a minute.
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+pyarrow>=14.0
+google-genai>=0.3
+python-dotenv>=1.0
+# Demo app
+fastapi>=0.110
+uvicorn[standard]>=0.27

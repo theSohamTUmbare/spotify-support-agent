@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"playlist_library\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is asking about offline downloaded music disappearing from their phone, which falls under playlist_library. A bot can automatically provide the standard troubleshooting steps for removed downloads as shown in the support reply.\"\n}"}

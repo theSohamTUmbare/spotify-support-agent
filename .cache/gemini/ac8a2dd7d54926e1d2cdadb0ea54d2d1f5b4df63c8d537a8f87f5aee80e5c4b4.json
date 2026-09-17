@@ -1,0 +1,1 @@
+{"text": "{\n  \"intent\": \"feature_feedback\",\n  \"gold_decision\": \"auto\",\n  \"confidence\": 0.95,\n  \"note\": \"The customer is complaining about the recommendation quality in their Release Radar playlist and asking for a feature/control to exclude specific artists, which falls squarely under feature feedback and can be handled automatically by a bot.\"\n}"}

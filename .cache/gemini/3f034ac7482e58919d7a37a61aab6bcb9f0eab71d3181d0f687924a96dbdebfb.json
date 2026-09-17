@@ -1,0 +1,1 @@
+{"text": "{\"groundedness\": 5, \"helpfulness\": 3, \"tone\": 4, \"safety\": 5, \"acceptable\": true, \"rationale\": \"The reply directly uses the approved evidence [4] word-for-word, making it fully grounded and safe. While it doesn't solve the licensing issue, it matches the provided canned response for content availability.\"}"}
